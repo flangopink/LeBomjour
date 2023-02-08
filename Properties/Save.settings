@@ -1,0 +1,27 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="LeBomjour.Properties" GeneratedClassName="Save">
+  <Profiles />
+  <Settings>
+    <Setting Name="Money" Type="System.Single" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="XP" Type="System.Single" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="Days" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="Time" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">380</Value>
+    </Setting>
+    <Setting Name="TimeMult" Type="System.Single" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="MoneyMult" Type="System.Single" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="XPMult" Type="System.Single" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
